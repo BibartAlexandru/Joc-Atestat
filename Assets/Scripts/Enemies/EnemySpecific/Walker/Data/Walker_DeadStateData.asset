@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1be13ed17f182f642ac12c521dc4613e, type: 3}
+  m_Name: Walker_DeadStateData
+  m_EditorClassIdentifier: 
+  deathEffect: {fileID: 2551433158080076259, guid: 99b821774d4fc9e41bc6e4f313129ba0,
+    type: 3}
+  destroyEffects:
+  - {fileID: 7201399045190402932, guid: 573e85b5ac5b49748ab24f69eff43d70, type: 3}

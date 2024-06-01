@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: efe9879d7cac71742b6d1ee1d9f88a0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - center: {instanceID: 0}
+  - topOfHead: {instanceID: 0}
+  - bigAgroRangePlayerCheckCornerLeft: {instanceID: 0}
+  - bigAgroRangePlayerCheckCornerRight: {instanceID: 0}
+  - smallAgroRangePlayerCheckCornerLeft: {instanceID: 0}
+  - smallAgroRangePlayerCheckCornerRight: {instanceID: 0}
+  - matDefault: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - matWhite: {fileID: 2100000, guid: be5dcdc8e1cc1a84e877539831aad145, type: 2}
+  - entityData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

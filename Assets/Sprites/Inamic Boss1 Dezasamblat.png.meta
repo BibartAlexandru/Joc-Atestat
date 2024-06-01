@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: df52a1d7f344f8b4c8ad477e4a3dc9ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1855522272559429878
+    second: CapMiniBoss1
+  - first:
+      213: 8835910505377168238
+    second: UmarStMiniBoss1
+  - first:
+      213: 2980520819940212793
+    second: UmarDrMiniBoss1
+  - first:
+      213: -2350596377467659747
+    second: ManaSt MiniBoss1
+  - first:
+      213: -2293279848709805012
+    second: ManaDrMiniBoss1
+  - first:
+      213: -6270049573055457082
+    second: CorpMiniBoss1
+  - first:
+      213: 9145813956316738486
+    second: PiciorStMiniBoss1
+  - first:
+      213: -3590384966104033968
+    second: PiciorDrMiniBoss1
+  - first:
+      213: -640012025605677683
+    second: PalarieMiniBoss1
+  - first:
+      213: -9114048967873372340
+    second: Ochi
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CapMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 931
+        width: 206
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2082075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8fab80da320c910800000000000000
+      internalID: 1855522272559429878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmarStMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 978
+        width: 181
+        height: 89
+      alignment: 9
+      pivot: {x: 0.76416725, y: 0.51535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf52c3ac57f9a70800000000000000
+      internalID: 8835910505377168238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UmarDrMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 980
+        width: 168
+        height: 89
+      alignment: 9
+      pivot: {x: 0.1828657, y: 0.57674795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930413ee4efec5920800000000000000
+      internalID: 2980520819940212793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaSt MiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 611
+        width: 43
+        height: 270
+      alignment: 9
+      pivot: {x: 0.43645868, y: 0.930075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a58b67c01016fd0800000000000000
+      internalID: -2350596377467659747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaDrMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 618
+        width: 42
+        height: 270
+      alignment: 9
+      pivot: {x: 0.59757924, y: 0.89971673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c271fb022ac20e0800000000000000
+      internalID: -2293279848709805012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorpMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 604
+        width: 269
+        height: 270
+      alignment: 9
+      pivot: {x: 0.48964036, y: 0.177778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c890f9222f4cf8a0800000000000000
+      internalID: -6270049573055457082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiciorStMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 401
+        width: 37
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46307868, y: 0.87477636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b11036557cee70800000000000000
+      internalID: 9145813956316738486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiciorDrMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 398
+        width: 37
+        height: 122
+      alignment: 9
+      pivot: {x: 0.536923, y: 0.84712845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055577065e36c2ec0800000000000000
+      internalID: -3590384966104033968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalarieMiniBoss1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1107
+        width: 224
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.45446235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9bc124783e17f0800000000000000
+      internalID: -640012025605677683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ochi
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 987
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f546480c4648180800000000000000
+      internalID: -9114048967873372340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

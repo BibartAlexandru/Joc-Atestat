@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6339735514388324240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6339735514388324244}
+  - component: {fileID: 6339735514388324241}
+  - component: {fileID: 6339735514388324246}
+  - component: {fileID: 1471344279645951036}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6339735514388324244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6339735514388324240}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.2955105, y: 1.5581183, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6339735514388324241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6339735514388324240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56dd73fedd492a4388dcbd0ef205c9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  respawnTimeStart: 0
+  remainingRespawns: 1
+  maxRespawns: 1
+  levelFailedMenu: {fileID: 0}
+  respawnsLeftText: {fileID: 0}
+  loseText: {fileID: 0}
+  loseTexts:
+  - ESTI GAY
+  transitionTime: 1
+  defaultSelectedButton: {fileID: 0}
+  levelFailedDefaultButton: {fileID: 0}
+  respawn: 0
+  respawnPoint: {fileID: 0}
+  transition: {fileID: 0}
+  player: {fileID: 0}
+  respawnTime: 2
+  cameraX: {fileID: 0}
+  cameraY: {fileID: 0}
+--- !u!114 &6339735514388324246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6339735514388324240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2846b792034eef74e856a4e5a6fb6906, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenu: {fileID: 0}
+  UIsToDisable: []
+  defaultSelectedButton: {fileID: 0}
+--- !u!114 &1471344279645951036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6339735514388324240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 900cedecb7fbe3a4fb2be7aabb6f7d06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsTag: 
+  nextLevelButton: {fileID: 0}
+  waves: []
+  waveCompletedPopUp: {fileID: 0}
+  waveCountDownUI: {fileID: 0}
+  spawnPoints: []
+  timeBetweenWaves: 5
+  waveCountdown: 0
+  endless: 0
